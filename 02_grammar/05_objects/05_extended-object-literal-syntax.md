@@ -1,0 +1,1 @@
+# Extended Object Literal Syntax

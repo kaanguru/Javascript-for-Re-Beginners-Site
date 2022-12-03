@@ -1,0 +1,12 @@
+{
+  "files.exclude": {
+    ".gitignore": true,
+    ".vscode": true,
+    ".vuepress/.*": true,
+    ".yarnrc.yml": true,
+    "node_modules": true,
+    "README.md": true,
+    "yarn.lock": true
+  },
+  "cSpell.words": ["CODEPEN", "Intelli", "Kosali", "Udemy", "visualstudiocodelogo"]
+}
